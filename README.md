@@ -1,2 +1,2 @@
 # Project_collage
-This is my first repository
+This is my first repositor
